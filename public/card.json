@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "images/computer.webp",
+        "device": "Surface Laptop 5",
+        "btn": "Learn More",
+        "description": "Sophisticated style and multitasking speed powered by 12th Gen Intel® Core, with Windows 11."
+    },
+    {
+        "id": 2,
+        "image": "images/computer1.webp",
+        "device": "Surface Laptop Studio",
+        "btn": "Learn More",
+        "description": "Flex your creative muscle on the most powerful Surface Laptop. Now available with Windows 11."
+    },
+    {
+        "id": 3,
+        "image": "images/computer2.jpeg",
+        "device": "Xbox Series X",
+        "btn": "Shop Xbox Series X",
+        "description": "The Fastest,Most Powerful Xbox ever"
+    },
+    {
+        "id": 4,
+        "image": "images/computer3.avif",
+        "device": "Maximise the everyday with Microsoft 365",
+        "btn": "For one Person",
+        "description": "Get online protection, secure cloud storage and innovative apps designed to fit your needs – all in one plan."
+    }
+]

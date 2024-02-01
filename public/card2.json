@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "image": "images/computer4.avif",
+        "device": "space for buisiness",
+        "btn": "shop now",
+        "description": "No matter what you do, there’s a Surface to help you do it."
+    },
+    {
+        "id": 2,
+        "image": "images/computer5.webp",
+        "device": "get microsoft team for free",
+        "btn": "sign up for free",
+        "description": "Online meetings, chat and shared cloud storage – all in one place."
+    },
+    {
+        "id": 3,
+        "image": "images/computer6.jpeg",
+        "device": "join era of ai",
+        "btn": "explore ai solutions",
+        "description": "Create, communicate, and code with the latest Microsoft AI solutions."
+    },
+    {
+        "id": 4,
+        "image": "images/computer7.webp",
+        "device": "Welcome to your Windows 365 Cloud PC",
+        "btn": "get it today",
+        "description": "Securely stream your Windows experience from the Microsoft cloud to any device"
+    }
+]
